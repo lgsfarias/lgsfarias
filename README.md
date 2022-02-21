@@ -1,6 +1,6 @@
 ## Olá, me chamo Luiz Gustavo 👋
 
-### Sou um estudante de Desenvolvimento Web Full-Stack, vivo no Brasil e atualmente estou fazendo o bootcamp de programação da Driven Education.
+### Sou estudante de engenharia, vivo no Brasil e atualmente estou fazendo o bootcamp de Desenvolvimento Web Full-Stack da Driven Education.
 <br>
 
 <div>
