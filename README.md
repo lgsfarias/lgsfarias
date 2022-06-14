@@ -1,10 +1,6 @@
 # Olá, me chamo Luiz Gustavo 👋
 
 ### Sou estudante de engenharia, apaixonado por tecnologia e atualmente estou fazendo o bootcamp de Desenvolvimento Web Full-Stack da Driven Education.
-
-<!-- - Sou estudante de Engenharia Mecânica na Universidade Federal do Rio de Janeiro
-- Durante 2 anos dei monitoria de programação em Python na faculdade
-- Atualmente estou fazendo o bootcamp de Desenvolvimento Web Full-Stack na Driven Education -->
 <br>
 
 <div>
@@ -22,9 +18,10 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="MongodB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
   ### Contatos:
