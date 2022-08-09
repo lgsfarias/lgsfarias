@@ -1,6 +1,6 @@
-# Olá, me chamo Luiz Gustavo 👋
+# Olá, seja muito bem vindo! 👋
 
-### Sou estudante de engenharia, apaixonado por tecnologia e atualmente estou fazendo o bootcamp de Desenvolvimento Web Full-Stack da Driven Education.
+### Me chamo Luiz Gustavo, sou estudante de engenharia, apaixonado por tecnologia e atualmente estou fazendo o bootcamp de Desenvolvimento Web Full-Stack da Driven Education.
 <br>
 
 <div>
