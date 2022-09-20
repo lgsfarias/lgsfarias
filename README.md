@@ -20,8 +20,12 @@
   <img align="center" alt="Prisma" height="50" src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png">
   <img align="center" alt="MongodB" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Postgres" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Redis" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="Jest" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Cypress" height="50" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg">
   <img align="center" alt="Docker" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="AWS" height="50" src="https://github.com/github/explore/blob/main/topics/aws/aws.png">
+  <img align="center" alt="GitHub Actions" height="50" src="https://avatars.githubusercontent.com/u/65916846?v=4?s=100">
   <img align="center" alt="git" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
