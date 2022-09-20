@@ -1,6 +1,6 @@
 # Olá, seja muito bem vindo! 👋
 
-### Me chamo Luiz Gustavo, sou estudante de engenharia, apaixonado por tecnologia e atualmente estou fazendo o bootcamp de Desenvolvimento Web Full-Stack da Driven Education.
+### Me chamo Luiz Gustavo, sou um Desenvolvedor Web Full-Stack formado na Driven Education.
 <br>
 
 <div>
@@ -32,7 +32,6 @@
 <div>
   <a href="https://www.linkedin.com/in/lgsfarias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:lgsfarias.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/farias_95/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </div>
   
 ![Snake animation](https://github.com/lgsfarias/lgsfarias/blob/output/github-contribution-grid-snake.svg)
