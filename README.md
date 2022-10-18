@@ -13,22 +13,22 @@
   
 <div style="display: inline_block" >
 
-  <img align="center" alt="NodeJS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="ts" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="styled-components" height="50" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
-  <img align="center" alt="AntDesign" height="50" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png">
-  <img align="center" alt="Prisma" height="50" src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png">
-  <img align="center" alt="MongodB" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Postgres" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Redis" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Jest" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="Cypress" height="50" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg">
-  <img align="center" alt="Docker" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="AWS" height="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="GitHub Actions" height="50" src="https://avatars.githubusercontent.com/u/65916846?v=4?s=100">
-  <img align="center" alt="git" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="NodeJS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="ts" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="styled-components" height="60" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
+  <img align="center" alt="AntDesign" height="60" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png">
+  <img align="center" alt="Prisma" height="60" src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png">
+  <img align="center" alt="MongodB" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Postgres" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Redis" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  <img align="center" alt="Jest" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="Cypress" height="60" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg">
+  <img align="center" alt="Docker" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="AWS" height="60" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="GitHub Actions" height="60" src="https://avatars.githubusercontent.com/u/65916846?v=4?s=100">
+  <img align="center" alt="git" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Python" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
 </div>
 
