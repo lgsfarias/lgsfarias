@@ -1,4 +1,4 @@
-# Hello, everyone 👋
+## Hello, everyone 👋
 
 ### My name is Luiz Gustavo, I'm a Full-Stack Web Developer graduated from [Driven Education](https://www.driven.com.br/).
 <br>
@@ -8,13 +8,15 @@
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=lgsfarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgsfarias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+## Skills
 
   ### Front-End:
-  <div style="display: inline_block" target="_blank">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank">
+  <div style="display: inline_block">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img align="center" alt="Luiz-HTML" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS3" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img align="center" alt="Luiz-CSS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
   </a>
   <a href="https://sass-lang.com/" target="_blank">
@@ -35,6 +37,7 @@
   <a href="https://ant.design/">
   <img align="center" alt="AntDesign" height="60" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png">
   </a>
+  </div>
 
   ### Back-End:
 
@@ -51,6 +54,7 @@
   <a href="https://go.dev/">
   <img align="center" alt="Go" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   </a>
+  </div>
 
   ### ORM & Databases:
   
@@ -67,8 +71,6 @@
   <a href="https://redis.io/">
   <img align="center" alt="Redis" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   </a>
-  
- 
 </div>
 
   ### Tests:
@@ -140,18 +142,13 @@
   </div>
 
   ### Contatos:
-
-<!-- <div>
-  <a href="https://www.linkedin.com/in/lgsfarias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lgsfarias.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div> -->
   
 <div style="display: inline_block" >
   <a href="https://www.linkedin.com/in/lgsfarias" target="_blank">
   <img align="center" alt="LinkedIn" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
   <a href = "mailto:lgsfarias.dev@gmail.com">
-  <img align="center" alt="Gmail" height="60" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png">
+  <img align="center" alt="Gmail" height="50" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png">
   </a>
 </div>
   
