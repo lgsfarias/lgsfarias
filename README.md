@@ -10,7 +10,7 @@
 </div>
 
   ### Front-End:
-  <div style="display: inline_block" >
+  <div style="display: inline_block" target="_blank">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank">
     <img align="center" alt="Luiz-HTML" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
   </a>
