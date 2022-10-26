@@ -119,10 +119,6 @@
   <a href="https://git-scm.com/">
   <img align="center" alt="git" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </a>
-  <!
-  <a href="https://github.com">
-  <img align="center" alt="GitHub" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  </a>
   <a href="https://www.linux.org/">
   <img align="center" alt="Linux" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   </a>
@@ -156,6 +152,8 @@
   <img align="center" alt="Gmail" height="50" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png">
   </a>
 </div>
+
+## Contributions:
   
 ![Snake animation](https://github.com/lgsfarias/lgsfarias/blob/output/github-contribution-grid-snake.svg)
 
