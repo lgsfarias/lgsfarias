@@ -1,7 +1,9 @@
-## Hello, everyone 👋
+## Hi! 👋
 
 ### My name is Luiz Gustavo, I'm a Full-Stack Web Developer graduated from [Driven Education](https://www.driven.com.br/).
 <br>
+
+## GitHub Stats:
 
 <div>
   <a href="https://github.com/lgsfarias">
@@ -9,9 +11,9 @@
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgsfarias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-## Skills
+## Skills:
 
-  ### Front-End:
+  ### Front-End
   <div style="display: inline_block">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img align="center" alt="Luiz-HTML" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
@@ -39,7 +41,7 @@
   </a>
   </div>
 
-  ### Back-End:
+  ### Back-End
 
 <div style="display: inline_block" >
   <a href="https://nodejs.org/en/">
@@ -56,7 +58,7 @@
   </a>
   </div>
 
-  ### ORM & Databases:
+  ### ORM & Databases
   
 <div style="display: inline_block" >
   <a href="https://www.prisma.io/">
@@ -73,7 +75,7 @@
   </a>
 </div>
 
-  ### Tests:
+  ### Tests
 
 <div style="display: inline_block" >
   <a href="https://jestjs.io/pt-BR/">
@@ -84,7 +86,7 @@
   </a>
  </div>
 
-  ### DevOps:
+  ### DevOps
 
 <div style="display: inline_block" >
   <a href="https://www.docker.com/">
@@ -108,9 +110,12 @@
   </a>
   </div>
 
-  ### Others:
+  ### Others
 
 <div style="display: inline_block" >
+  <a href="https://code.visualstudio.com/">
+  <img align="center" alt="VSCode" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  </a>
   <a href="https://git-scm.com/">
   <img align="center" alt="git" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </a>
@@ -141,7 +146,7 @@
   </a>
   </div>
 
-  ### Contatos:
+  ## Contact:
   
 <div style="display: inline_block" >
   <a href="https://www.linkedin.com/in/lgsfarias" target="_blank">
