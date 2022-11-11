@@ -21,9 +21,6 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img align="center" alt="Luiz-CSS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
   </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img align="center" alt="Luiz-SASS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="max-width:100%;">
-  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img align="center" alt="Luiz-JS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;">
   </a>
@@ -32,6 +29,9 @@
   </a>
   <a href="https://reactjs.org/">
   <img align="center" alt="React" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+  <img align="center" alt="Luiz-SASS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="max-width:100%;">
   </a>
   <a href="https://styled-components.com/">
   <img align="center" alt="styled-components" height="60" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
