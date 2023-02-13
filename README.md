@@ -11,7 +11,7 @@ Aqui você encontrará alguns dos meus projetos mais recentes. Sinta-se à vonta
 
 ##
 
-Hobbies: ☕ Café. 🏋️‍♂️ Crossfit. 🎱 Sinuca. 
+Hobbies: ☕ Café. 🏋️‍♂️ Crossfit. 📸 Fotografia. 🎱 Sinuca. 
 
 <h1></h1>
 
