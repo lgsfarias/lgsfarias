@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu GitHub! 👋
 
-<img align="right" width=300 src="readme.gif" />
+<img align="right" width=26% src="readme.gif" />
 
 Meu nome é Luiz Gustavo e sou um Desenvolvedor Full-Stack Web graduado pela [Driven Education](https://www.driven.com.br/).
 
