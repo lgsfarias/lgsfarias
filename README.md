@@ -2,11 +2,7 @@
 
 <img align="right" width=26% src="readme.gif" />
 
-Meu nome é Luiz Gustavo e sou um Desenvolvedor Full-Stack Web graduado pela [Driven Education](https://www.driven.com.br/).
-
-Como desenvolvedor, busco sempre entregar soluções eficientes e inovadoras para os meus projetos, utilizando as tecnologias mais atualizadas do mercado. Além disso, acredito que a colaboração e a constante evolução são fundamentais.
-
-Aqui você encontrará alguns dos meus projetos mais recentes. Sinta-se à vontade para explorar e fazer qualquer pergunta ou sugestão!
+Sou o Luiz Gustavo, Analista Desenvolvedor Node na [MaxMilhas](https://www.maxmilhas.com.br/) e formado em Desenvolvimento Full Stack pela [Driven Education](https://www.driven.com.br/). Estou sempre buscando aprender mais e me atualizar sobre as novas tecnologias e tendências no mercado e por aqui você encontrará alguns dos meus projetos mais recentes. Sinta-se à vontade para explorar e fazer qualquer pergunta ou sugestão!
 
 ##
 
@@ -33,6 +29,9 @@ Hobbies: ☕ Café. 🏋️‍♂️ Crossfit. 📸 Fotografia. 🎱 Sinuca.
     <img align="center" alt="Nginx" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
     
   </div>
+  
+  
+<!---
 
 ### GitHub Stats:
 
@@ -41,7 +40,7 @@ Hobbies: ☕ Café. 🏋️‍♂️ Crossfit. 📸 Fotografia. 🎱 Sinuca.
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=lgsfarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgsfarias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<!---
+
   
 ## Contributions:
 
