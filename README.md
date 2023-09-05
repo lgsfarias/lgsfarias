@@ -2,7 +2,7 @@
 
 <img align="right" width=26% src="readme.gif" />
 
-Sou o Luiz Gustavo, Analista Desenvolvedor Node na [MaxMilhas](https://www.maxmilhas.com.br/) e formado em Desenvolvimento Full Stack pela [Driven Education](https://www.driven.com.br/). Estou sempre buscando aprender mais e me atualizar sobre as novas tecnologias e tendências no mercado e por aqui você encontrará alguns dos meus projetos mais recentes. Sinta-se à vontade para explorar e fazer qualquer pergunta ou sugestão!
+Sou o Luiz Gustavo, Desenvolvedor Full Stack formado pela [Driven Education](https://www.driven.com.br/). Estou sempre buscando aprender mais e me atualizar sobre as novas tecnologias e tendências no mercado e por aqui você encontrará alguns dos meus projetos mais recentes. Sinta-se à vontade para explorar e fazer qualquer pergunta ou sugestão!
 
 ##
 
