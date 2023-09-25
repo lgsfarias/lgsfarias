@@ -13,6 +13,8 @@ Hobbies: ☕ Café. 🏋️‍♂️ Crossfit. 📸 Fotografia. 🎱 Sinuca.
 ### Favorite Stacks: 
 
 <div style="display: inline_block">
+    <img align="center" alt="php" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img align="center" alt="Symfony" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg">
     <img align="center" alt="TypeScript" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="Nodejs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
